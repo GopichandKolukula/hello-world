@@ -1,3 +1,3 @@
 # hello-world
 FirstCodeReview
-Hi! My name is gopi, Software Engineer
+Hi! My name is Gopi Chand
